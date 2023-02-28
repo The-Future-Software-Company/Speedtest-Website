@@ -6,9 +6,9 @@
 ## [Author's Github](https://github.com/Huseyin-Cinar)
 
 ## [See more repo like this](https://github.com/Huseyin-Cinar?tab=repositories)
-<br><br>
+<br><br><br>
 
- My Social Media Accounts;
+ Author's Media Accounts;
    - Instagram
      - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
    - Twitter
@@ -20,4 +20,4 @@
    - Discord Server
      - [Join](https://futuree.netlify.app/dc)
    - My Website
-     - [Click](https://futuree.netlify.app)
+     - [Click](https://futuree.netlify.app/en)
